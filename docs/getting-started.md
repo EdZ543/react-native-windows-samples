@@ -68,7 +68,7 @@ For information on the options that `react-native-windows-init` takes see [React
   - Click the `Run` button to the right of the platform combo box control in VS, or select the `Debug`->`Start without Debugging` menu item. You now see your new app and Chrome should have loaded `http://localhost:8081/debugger-ui/` in a new tab. Press `F12` or `Ctrl+Shift+I` in Chrome to open its Developer Tools. :tada:
 
 - With VS Code
-  - Open your applications folder in VS Code.
+  - Open your application's folder in VS Code.
   - Install the [React Native Tools](https://marketplace.visualstudio.com/items?itemName=msjsdiag.vscode-react-native) plugin for VS Code.
   - Create a new file in the applications root directory, `.vscode/launch.json` and paste the following configuration:
   ```json
